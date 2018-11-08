@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/kruki/precache-manifest.15b7fe3178df8f8daa868e5091f2260f.js"
+  "/kruki/precache-manifest.89e2a78216e2f09021b279c9d5894cff.js"
 );
 
 workbox.clientsClaim();
