@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "Kalashnikov";
+    src: url("../res/fonts/Kruk-Kalashn-edit-VG.ttf")
+}
+
+.symbol {
+    width: 700px;
+    height: 120px;
+    display: grid;
+    grid-template-columns: 200px 500px;
+    border-top: solid 1px #000;
+    border-right: solid 1px #000;
+    border-left: solid 1px #000;
+}
+
+.symbol-view {
+    padding-top:30px;
+    padding-right: 20px;
+    height: 120px;
+    font-family: Kalashnikov;
+    font-size: 60pt;
+}
+
+.symbol-name {
+    font-size: 20pt;
+    border-left: solid 1px #000;
+
+}
+
+.red {
+    color: red;
+}
