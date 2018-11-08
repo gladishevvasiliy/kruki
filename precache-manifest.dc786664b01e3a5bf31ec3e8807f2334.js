@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/kruki/static/js/runtime~main.3dc112bb.js"
   },
   {
-    "revision": "c6e078beba32ec81c2a1",
-    "url": "/kruki/static/js/main.c6e078be.chunk.js"
+    "revision": "13eeb6f0ffc4d6fda6a6",
+    "url": "/kruki/static/js/main.13eeb6f0.chunk.js"
   },
   {
     "revision": "3da870a3c1c4b41662f2",
     "url": "/kruki/static/js/1.3da870a3.chunk.js"
   },
   {
-    "revision": "c6e078beba32ec81c2a1",
-    "url": "/kruki/static/css/main.fef37dff.chunk.css"
+    "revision": "13eeb6f0ffc4d6fda6a6",
+    "url": "/kruki/static/css/main.5651a2f5.chunk.css"
   },
   {
-    "revision": "dbe6a42f75ba92fdf46e4d34fcc83af5",
+    "revision": "fb6fd0daac767a3b4bfac7dbdb29c18a",
     "url": "/kruki/index.html"
   }
 ];
