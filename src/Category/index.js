@@ -9,7 +9,7 @@ export default class Category extends Component {
       <div className="category">
         <h2>{symbols.label}</h2>
         {
-            symbols.value.map((value) => <Symbol value={value} />)
+            symbols.value.map((value, index) => <Symbol value={value} key={index} />)
         }
       </div>
     )

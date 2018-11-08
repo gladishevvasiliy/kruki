@@ -9,7 +9,7 @@ class App extends Component {
       <div className="App">
       <h1>Крюки</h1>
       {
-        KRUKI.map((kruk) => <Category symbols={kruk} />)
+        KRUKI.map((kruk) => <Category symbols={kruk} key={kruk.id}/>)
       }
       </div>
     );
